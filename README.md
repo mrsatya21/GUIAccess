@@ -1,6 +1,7 @@
 # GUIAccess
 This is a Bash Script to grant GUI access to new standard user created in EC2 macOS instance. 
-```
+
+```Shell Script
 #!bin/bash
 # Steps to grant GUI access to Standard user (user with non admin rights) in EC2 MacOS
 # Run the following command to enable the screensharing feature in the macOS instance
